@@ -1,3 +1,4 @@
+
 def num_translate():
     numbers = input('Введите число: ')
     print(number.get(numbers.lower()))
