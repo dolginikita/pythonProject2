@@ -10,6 +10,7 @@ class Clothing(ABC):
         pass
 
 
+
 class Coat(Clothing):
     @property
     def expenditure(self):
