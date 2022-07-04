@@ -5,7 +5,6 @@ class Cell:
         else:
             raise ValueError
 
-
     def __add__(self, other):
         return Cell(self.number + other.number)
 
